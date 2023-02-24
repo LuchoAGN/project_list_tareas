@@ -1,0 +1,17 @@
+.content_TodoCounter{
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.content_TodoCounter > h4, h2{
+    font-family: 'JetBrainsMono_bold';
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.content_TodoCounter > h4{
+    color: #A370F0;
+}
